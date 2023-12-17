@@ -1,0 +1,22 @@
+body {
+    background-image: url("logo_with_name-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+  }
+  body {
+    font-family: sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+    
